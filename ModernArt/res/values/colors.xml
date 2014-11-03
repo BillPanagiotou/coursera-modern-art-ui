@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red_0">#f9bdbb</color>
+    <color name="red_1">#f69988</color>
+    <color name="red_2">#f36c60</color>
+    <color name="red_3">#e84e40</color>
+    <color name="red_4">#e51c23</color>
+    <color name="red_5">#dd191d</color>
+    <color name="red_6">#d01716</color>
+    <color name="red_7">#c41411</color>
+    <color name="red_8">#b0120a</color>
+    <color name="purple_0">#e1bee7</color>
+    <color name="purple_1">#ce93d8</color>
+    <color name="purple_2">#ba68c8</color>
+    <color name="purple_3">#ab47bc</color>
+    <color name="purple_4">#9c27b0</color>
+    <color name="purple_5">#8e24aa</color>
+    <color name="purple_6">#7b1fa2</color>
+    <color name="purple_7">#6a1b9a</color>
+    <color name="purple_8">#4a148c</color>
+    <color name="lime_0">#f0f4c3</color>
+    <color name="lime_1">#e6ee9c</color>
+    <color name="lime_2">#dce775</color>
+    <color name="lime_3">#d4e157</color>
+    <color name="lime_4">#cddc39</color>
+    <color name="lime_5">#c0ca33</color>
+    <color name="lime_6">#afb42b</color>
+    <color name="lime_7">#9e9d24</color>
+    <color name="lime_8">#827717</color>
+    <color name="blue_gray_0">#cfd8dc</color>
+    <color name="blue_gray_1">#b0bec5</color>
+    <color name="blue_gray_2">#90a4ae</color>
+    <color name="blue_gray_3">#78909c</color>
+    <color name="blue_gray_4">#607d8b</color>
+    <color name="blue_gray_5">#546e7a</color>
+    <color name="blue_gray_6">#455a64</color>
+    <color name="blue_gray_7">#37474f</color>
+    <color name="blue_gray_8">#263238</color>
+
+    <array name="red">
+        <item>@color/red_0</item>
+        <item>@color/red_1</item>
+        <item>@color/red_2</item>
+        <item>@color/red_3</item>
+        <item>@color/red_4</item>
+        <item>@color/red_5</item>
+        <item>@color/red_6</item>
+        <item>@color/red_7</item>
+        <item>@color/red_8</item>
+    </array>
+    <array name="purple">
+        <item>@color/purple_0</item>
+        <item>@color/purple_1</item>
+        <item>@color/purple_2</item>
+        <item>@color/purple_3</item>
+        <item>@color/purple_4</item>
+        <item>@color/purple_5</item>
+        <item>@color/purple_6</item>
+        <item>@color/purple_7</item>
+        <item>@color/purple_8</item>
+    </array>
+    <array name="lime">
+        <item>@color/lime_0</item>
+        <item>@color/lime_1</item>
+        <item>@color/lime_2</item>
+        <item>@color/lime_3</item>
+        <item>@color/lime_4</item>
+        <item>@color/lime_5</item>
+        <item>@color/lime_6</item>
+        <item>@color/lime_7</item>
+        <item>@color/lime_8</item>
+    </array>
+     <array name="blue_gray">
+        <item>@color/blue_gray_0</item>
+        <item>@color/blue_gray_1</item>
+        <item>@color/blue_gray_2</item>
+        <item>@color/blue_gray_3</item>
+        <item>@color/blue_gray_4</item>
+        <item>@color/blue_gray_5</item>
+        <item>@color/blue_gray_6</item>
+        <item>@color/blue_gray_7</item>
+        <item>@color/blue_gray_8</item>
+    </array>
+    
+</resources>
